@@ -1,0 +1,17 @@
+;convertedu.com
+convertedu.com.		86400	IN	SOA	ns0.dnsmadeeasy.com. dns.dnsmadeeasy.com. 2008010113 43200 3600 1209600 180
+convertedu.com.		1800	IN	TXT	"google-site-verification=WSfzHIkX4oqXAFWu7JvDxeNYEFzY9LnItdsr4Udhvyo"
+convertedu.com.		1800	IN	A	216.239.32.21
+convertedu.com.		1800	IN	A	216.239.34.21
+convertedu.com.		1800	IN	A	216.239.36.21
+convertedu.com.		1800	IN	A	216.239.38.21
+convertedu.com.		86400	IN	NS	ns0.dnsmadeeasy.com.
+convertedu.com.		86400	IN	NS	ns1.dnsmadeeasy.com.
+convertedu.com.		86400	IN	NS	ns2.dnsmadeeasy.com.
+convertedu.com.		86400	IN	NS	ns3.dnsmadeeasy.com.
+convertedu.com.		86400	IN	NS	ns4.dnsmadeeasy.com.
+*.convertedu.com.	1800	IN	CNAME	ghs.googlehosted.com.
+ideas.convertedu.com.	1800	IN	CNAME	convertedu.ideas.aha.io.
+smkc2sfuxus3czzjht85osii9vwoj66b.convertedu.com. 1800 IN CNAME s20160624204347.convertedu.com.
+www.convertedu.com.	1800	IN	CNAME	ghs.googlehosted.com.
+convertedu.com.		86400	IN	SOA	ns0.dnsmadeeasy.com. dns.dnsmadeeasy.com. 2008010113 43200 3600 1209600 180

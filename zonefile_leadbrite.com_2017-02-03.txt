@@ -1,0 +1,27 @@
+;leadbrite.com
+leadbrite.com.		86400	IN	SOA	ns0.dnsmadeeasy.com. dns.dnsmadeeasy.com. 2008010155 43200 3600 1209600 180
+leadbrite.com.		1800	IN	A	104.197.142.115
+leadbrite.com.		86400	IN	NS	ns0.dnsmadeeasy.com.
+leadbrite.com.		86400	IN	NS	ns1.dnsmadeeasy.com.
+leadbrite.com.		86400	IN	NS	ns2.dnsmadeeasy.com.
+leadbrite.com.		86400	IN	NS	ns3.dnsmadeeasy.com.
+leadbrite.com.		86400	IN	NS	ns4.dnsmadeeasy.com.
+leadbrite.com.		1800	IN	MX	1 aspmx.l.google.com.
+leadbrite.com.		1800	IN	MX	5 alt1.aspmx.l.google.com.
+leadbrite.com.		1800	IN	MX	5 alt2.aspmx.l.google.com.
+leadbrite.com.		1800	IN	MX	10 alt3.aspmx.l.google.com.
+leadbrite.com.		1800	IN	MX	10 alt4.aspmx.l.google.com.
+leadbrite.com.		1800	IN	TXT	"v=spf1 include:_spf.google.com include:spf.mandrillapp.com ~all"
+leadbrite.com.		1800	IN	TXT	"google-site-verification=FxX1YEYTukXzxvxfKJNYiaaI8IUhP8K7pHHAaS9G8EQ"
+*.leadbrite.com.	1800	IN	A	104.197.142.115
+mandrill._domainkey.leadbrite.com. 1800	IN TXT	"v=DKIM1\; k=rsa\; p=MIGfMA0GCSqGSIb3DQEBAQUAA4GNADCBiQKBgQCrLHiExVd55zd/IQ/J/mRwSRMAocV/hMB3jXwaHH36d9NaVynQFYV8NaWi69c1veUtRzGt7yAioXqLj7Z4TeEUoOLgrKsn8YnckGs9i3B3tVFB+Ch/4mPhXWiNfNdynHWBcPcbJ8kjEQ2U8y78dHZj1YeRXXVvWob2OaKynO8/lQIDAQAB\;"
+blog.leadbrite.com.	1800	IN	CNAME	leadbriteblog.wpengine.com.
+calptest.leadbrite.com.	1800	IN	CNAME	custom-proxy.leadpagestest.net.
+catest.leadbrite.com.	1800	IN	CNAME	custom-proxy.leadpages.net.
+cdn.leadbrite.com.	1800	IN	CNAME	cdn.leadplayer.com.s3.amazonaws.com.
+jmenegotti.leadbrite.com. 1800	IN	CNAME	custom-proxy.leadpages.net.
+jmenegotti-test.leadbrite.com. 1800 IN	CNAME	custom-proxy.leadpagestest.net.
+mail.leadbrite.com.	1800	IN	CNAME	mail.emailsrvr.com.
+webmail.leadbrite.com.	1800	IN	CNAME	mail.leadbrite.com.
+leadbrite.com.		86400	IN	SOA	ns0.dnsmadeeasy.com. dns.dnsmadeeasy.com. 2008010155 43200 3600 1209600 180
+

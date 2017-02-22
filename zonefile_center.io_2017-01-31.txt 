@@ -1,0 +1,76 @@
+;center.io
+center.io.		86400	IN	SOA	ns0.dnsmadeeasy.com. dns.dnsmadeeasy.com. 2008010196 43200 3600 1209600 180
+center.io.		3600	IN	MX	1 aspmx.l.google.com.
+center.io.		3600	IN	MX	5 alt1.aspmx.l.google.com.
+center.io.		3600	IN	MX	5 alt2.aspmx.l.google.com.
+center.io.		3600	IN	MX	10 alt3.aspmx.l.google.com.
+center.io.		3600	IN	MX	10 alt4.aspmx.l.google.com.
+center.io.		1800	IN	AAAA	2001:4860:4802:32::15
+center.io.		1800	IN	AAAA	2001:4860:4802:34::15
+center.io.		1800	IN	AAAA	2001:4860:4802:36::15
+center.io.		1800	IN	AAAA	2001:4860:4802:38::15
+center.io.		1800	IN	A	216.239.32.21
+center.io.		1800	IN	A	216.239.34.21
+center.io.		1800	IN	A	216.239.36.21
+center.io.		1800	IN	A	216.239.38.21
+center.io.		3600	IN	TXT	"v=spf1 a mx include:_spf.google.com include:sendgrid.net ~all"
+center.io.		3600	IN	TXT	"google-site-verification=NVFGHt7YoJDWn8w2vYy0M5q0XVlWVeZ8x1umDb1BrQU"
+center.io.		86400	IN	NS	ns0.dnsmadeeasy.com.
+center.io.		86400	IN	NS	ns1.dnsmadeeasy.com.
+center.io.		86400	IN	NS	ns2.dnsmadeeasy.com.
+center.io.		86400	IN	NS	ns3.dnsmadeeasy.com.
+center.io.		86400	IN	NS	ns4.dnsmadeeasy.com.
+2840101.center.io.	1800	IN	CNAME	sendgrid.net.
+m1._domainkey.center.io. 3600	IN	TXT	"k=rsa\; t=s\; p=MIGfMA0GCSqGSIb3DQEBAQUAA4GNADCBiQKBgQC4lAGz2OOmv30IcJ7OZl7RIlIfvl3QGyg7+GPi2ZhcY1oRf2lBeLZw/Jq9kUpMfOyWAx8ujD9fyawvTIJkPDipZaBkXghyEB717kHPeIJruwB3v1Ha5/Xen86mj81DhhmTpfz6RIkRBl9LjDK2JczS8M6H8JK50SmdggwFx9sMEQIDAQAB"
+s1._domainkey.center.io. 1800	IN	CNAME	s1.domainkey.u2840101.wl102.sendgrid.net.
+s2._domainkey.center.io. 1800	IN	CNAME	s2.domainkey.u2840101.wl102.sendgrid.net.
+ambassador-mail.center.io. 3600	IN	MX	1 mx.sendgrid.net.
+ambassador-mail.center.io. 3600	IN	TXT	"v=spf1 include:sendgrid.net ~all"
+api.center.io.		1800	IN	A	130.211.21.52
+api-test.center.io.	600	IN	A	130.211.23.103
+app.center.io.		1800	IN	CNAME	ghs.googlehosted.com.
+app-dev.center.io.	1800	IN	A	104.197.45.94
+app-test.center.io.	1800	IN	CNAME	ghs.googlehosted.com.
+cd27e31ac21a8a8f6a27b725de7880d8.center.io. 1800 IN CNAME ccd0e411aecc88dced142945d0fcad06911b944d.comodoca.com.
+developer.center.io.	1800	IN	CNAME	ghs.googlehosted.com.
+developer-docs.center.io. 1800	IN	CNAME	ghs.googlehosted.com.
+developer-docs-test.center.io. 1800 IN	CNAME	ghs.googlehosted.com.
+developer-test.center.io. 1800	IN	CNAME	ghs.googlehosted.com.
+developers.center.io.	1800	IN	CNAME	leadpages.github.io.
+exploring.center.io.	1800	IN	A	104.197.142.115
+ideas.center.io.	1800	IN	CNAME	center.ideas.aha.io.
+infra-test.center.io.	300	IN	A	216.239.32.21
+integrations-test.center.io. 1800 IN	A	104.197.45.94
+js.center.io.		1800	IN	CNAME	ghs.googlehosted.com.
+js-test.center.io.	1800	IN	CNAME	ghs.googlehosted.com.
+link.center.io.		1800	IN	CNAME	sendgrid.net.
+mail.center.io.		1800	IN	CNAME	u2840101.wl102.sendgrid.net.
+o1.mail.center.io.	1800	IN	A	167.89.22.77
+o2.mail.center.io.	1800	IN	A	167.89.24.42
+o3.mail.center.io.	1800	IN	A	167.89.27.130
+o4.mail.center.io.	1800	IN	A	167.89.27.133
+o5.mail.center.io.	1800	IN	A	167.89.52.66
+o6.mail.center.io.	1800	IN	A	167.89.53.130
+oauth2.center.io.	1800	IN	CNAME	ghs.googlehosted.com.
+oauth2-test.center.io.	1800	IN	CNAME	ghs.googlehosted.com.
+partners.center.io.	1800	IN	CNAME	mbsy.co.
+playground.center.io.	1800	IN	A	104.197.45.94
+productdelivery.center.io. 300	IN	A	52.0.16.118
+productdelivery.center.io. 300	IN	A	52.1.119.170
+productdelivery.center.io. 300	IN	A	52.1.147.205
+productdelivery.center.io. 300	IN	A	52.1.173.203
+productdelivery.center.io. 300	IN	A	52.4.38.70
+productdelivery.center.io. 300	IN	A	52.4.145.119
+productdelivery.center.io. 300	IN	A	52.4.175.111
+productdelivery.center.io. 300	IN	A	52.4.225.124
+productdelivery.center.io. 300	IN	A	52.4.240.221
+productdelivery.center.io. 300	IN	A	52.5.181.79
+productdelivery.center.io. 300	IN	A	52.6.3.192
+productdelivery.center.io. 300	IN	A	52.6.46.142
+17f19e2db1a9df52833dc91b2a74583e.productdelivery.center.io. 900	IN CNAME 448c4dc8c1f2f3f38ac8eb4c7cdeb8372d1ecef4.comodoca.com.
+stage-www.center.io.	1800	IN	A	104.193.18.136
+thank-you.center.io.	1800	IN	CNAME	c.storage.googleapis.com.
+www.center.io.		1800	IN	CNAME	ghs.googlehosted.com.
+www-test.center.io.	1800	IN	CNAME	ghs.googlehosted.com.
+center.io.		86400	IN	SOA	ns0.dnsmadeeasy.com. dns.dnsmadeeasy.com. 2008010196 43200 3600 1209600 180
+

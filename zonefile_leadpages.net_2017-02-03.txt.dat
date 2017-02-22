@@ -1,0 +1,485 @@
+;leadpages.net
+;EUROPE
+leadpages.net.		86400	IN	SOA	ns0.dnsmadeeasy.com. dns.dnsmadeeasy.com. 2008010418 43200 3600 1209600 180
+leadpages.net.		86400	IN	NS	ns0.dnsmadeeasy.com.
+leadpages.net.		86400	IN	NS	ns1.dnsmadeeasy.com.
+leadpages.net.		86400	IN	NS	ns2.dnsmadeeasy.com.
+leadpages.net.		86400	IN	NS	ns3.dnsmadeeasy.com.
+leadpages.net.		86400	IN	NS	ns4.dnsmadeeasy.com.
+leadpages.net.		1800	IN	A	216.239.32.21
+leadpages.net.		1800	IN	A	216.239.34.21
+leadpages.net.		1800	IN	A	216.239.36.21
+leadpages.net.		1800	IN	A	216.239.38.21
+leadpages.net.		1800	IN	MX	1 aspmx.l.google.com.
+leadpages.net.		1800	IN	MX	5 alt1.aspmx.l.google.com.
+leadpages.net.		1800	IN	MX	5 alt2.aspmx.l.google.com.
+leadpages.net.		1800	IN	MX	10 alt3.aspmx.l.google.com.
+leadpages.net.		1800	IN	MX	10 alt4.aspmx.l.google.com.
+leadpages.net.		1800	IN	TXT	"v=spf1 include:_spf.google.com include:m.dripemail2.com ~all"
+leadpages.net.		1800	IN	TXT	"google-site-verification=mICa4BQfKFDUeL23L-jqYeoUwG98M86GNELM2faUEwI"
+*.leadpages.net.	60	IN	CNAME	ghs-svc-https-c1220.ghs-ssl.googlehosted.com.
+0a4efed66a150cb39093cd80991dd227.leadpages.net.	1800 IN	CNAME f2ba5966ee90673b610f9aa22efa2d84fda9587c.comodoca.com.
+79f78118c142ee721a50eb457244e7d6.leadpages.net.	1800 IN	CNAME 95e43e5afa98d2760ae0a6935f240bc0af0f3df9.comodoca.com.
+intercom._domainkey.leadpages.net. 60 IN CNAME	557ae951-f1fd-4a02-9d95-fd47d379991b.dkim.intercom.io.
+m1._domainkey.leadpages.net. 3600 IN	TXT	"k=rsa\; t=s\; p=MIGfMA0GCSqGSIb3DQEBAQUAA4GNADCBiQKBgQC+0yZzF/obBdZUQsl+lrAcnc9LgIRkI5unjB6YzklN09PQdBErMhUiiwAJaxKFktybjxH9fUi7O8j1qpKtWJYXiMYMI25vRE4MJWBaE6buzCpstREeNBhU6YYM0vnYhe6Kn5F38lRfrJF3sc1+16SvuufoeB/LvauuRRU+CEvGyQIDAQAB"
+scph0416._domainkey.leadpages.net. 1800	IN TXT	"v=DKIM1\; k=rsa\; h=sha256\; p=MIGfMA0GCSqGSIb3DQEBAQUAA4GNADCBiQKBgQDih5pVeAPRFdDHY+14sCpx2Alpv6Fa4TpfuTuvahTlynaArXq7NjLef5VaxM/qZ0jRzSK+9YSWW4ZgX56Oz/2rM+aZGcIQQeY9fnboRqOvj5yEUZE8Lb0TLOJ8LvwkI5gKn/T5soRcVcX9DQKmn/NbaRjXx1zSzEANc6NyxOfMDQIDAQAB"
+advocates.leadpages.net. 1800	IN	CNAME	leadpages.influitive.com.
+affiliates.leadpages.net. 1800	IN	CNAME	leadbrite.hasoffers.com.
+authoring.leadpages.net. 60	IN	A	104.193.18.62
+b78ad17383143c62e336a285048533de.leadpages.net.	1800 IN	CNAME 5d7e9635b0a61fd1216f8b8f8b81c85cd511924e.comodoca.com.
+bk.leadpages.net.	1800	IN	A	130.211.179.138
+blog.leadpages.net.	1800	IN	CNAME	ghs.googlehosted.com.
+c87a3b9cd8b2d6e02bda6788a09a7802.leadpages.net.	1800 IN	CNAME 5336369c80d5d827934190114a382f87c06545ff.comodoca.com.
+careers.leadpages.net.	1800	IN	CNAME	leadpages.theresumator.com.
+cdn-1.leadpages.net.	1800	IN	CNAME	c.storage.googleapis.com.
+charteris.leadpages.net. 1800	IN	A	104.197.45.94
+chef.leadpages.net.	1800	IN	A	54.165.152.25
+chefp.leadpages.net.	1800	IN	A	173.255.115.60
+chronos.leadpages.net.	1800	IN	A	104.197.223.148
+cloudflare-verify.leadpages.net. 1800 IN TXT	"262958164-28872883"
+console.leadpages.net.	1800	IN	A	199.223.236.73
+consul.leadpages.net.	1800	IN	A	104.197.223.148
+consultants.leadpages.net. 1800	IN	CNAME	ghs.googlehosted.com.
+custom-proxy.leadpages.net. 1800 IN	A	130.211.13.132
+docs.leadpages.net.	1800	IN	CNAME	docs.leadpages.net.s3-website-us-east-1.amazonaws.com.
+drip.leadpages.net.	3600	IN	TXT	"v=spf1 include:sendgrid.net ~all"
+drip.leadpages.net.	3600	IN	MX	1 mx.sendgrid.net.
+elb.leadpages.net.	1800	IN	CNAME	internal-elasticsearch-cluster-9312714.us-east-1.elb.amazonaws.com.
+gcechef.leadpages.net.	3600	IN	A	104.154.48.111
+grader.leadpages.net.	1800	IN	A	104.197.146.31
+ideas.leadpages.net.	1800	IN	CNAME	leadpages.ideas.aha.io.
+jenkins.leadpages.net.	1800	IN	A	104.197.110.83
+kafka.leadpages.net.	1800	IN	A	104.197.223.148
+kiba.leadpages.net.	3600	IN	A	146.148.91.225
+learn.leadpages.net.	1800	IN	A	216.239.32.21
+learn.leadpages.net.	1800	IN	A	216.239.34.21
+learn.leadpages.net.	1800	IN	A	216.239.36.21
+learn.leadpages.net.	1800	IN	A	216.239.38.21
+learn.leadpages.net.	1800	IN	TXT	"google-site-verification=BdOGpfdilTK9Rq-DAIBbr1wNuyI6n1ffwQNSztCNGjA"
+learn.leadpages.net.	1800	IN	AAAA	2001:4860:4802:32::15
+learn.leadpages.net.	1800	IN	AAAA	2001:4860:4802:34::15
+learn.leadpages.net.	1800	IN	AAAA	2001:4860:4802:36::15
+learn.leadpages.net.	1800	IN	AAAA	2001:4860:4802:38::15
+link.leadpages.net.	1800	IN	CNAME	leadbrite.go2cloud.org.
+locust.leadpages.net.	1800	IN	A	173.255.125.119
+makeover.leadpages.net.	1800	IN	CNAME	contest.io.
+mara.leadpages.net.	1800	IN	A	104.197.223.148
+market.leadpages.net.	1800	IN	CNAME	ghs.googlehosted.com.
+marketplace.leadpages.net. 1800	IN	CNAME	market.leadpages.net.
+mc.leadpages.net.	1800	IN	A	167.114.100.222
+melk.leadpages.net.	3600	IN	A	104.197.74.127
+mesos.leadpages.net.	1800	IN	A	104.197.223.148
+mktg-utils.leadpages.net. 1800	IN	CNAME	ghs.googlehosted.com.
+npm.leadpages.net.	1800	IN	A	173.255.127.188
+odp.leadpages.net.	1800	IN	A	104.197.223.148
+pages.leadpages.net.	60	IN	CNAME	ghs.googlehosted.com.
+partners.leadpages.net.	1800	IN	CNAME	leadpages.cakemarketing.net.
+pdj.leadpages.net.	1800	IN	A	104.197.6.119
+pelk.leadpages.net.	3600	IN	A	104.197.115.157
+podcast.leadpages.net.	1800	IN	CNAME	ghs.googlehosted.com.
+proxycheck.leadpages.net. 1800	IN	CNAME	custom-proxy.leadpages.net.
+request.leadpages.net.	1800	IN	CNAME	market.leadpages.net.
+scribe.leadpages.net.	1800	IN	A	104.197.45.94
+stage-authoring.leadpages.net. 1800 IN	A	104.193.18.99
+stage-blog.leadpages.net. 1800	IN	A	104.193.18.99
+stage-consultants.leadpages.net. 1800 IN A	104.193.18.99
+stage-library.leadpages.net. 1800 IN	A	104.193.18.99
+stage-www.leadpages.net. 1800	IN	A	104.193.18.99
+status.leadpages.net.	1800	IN	CNAME	v71vlyntykqc.stspg-customer.com.
+support.leadpages.net.	1800	IN	CNAME	leadbrite.ssl.zendesk.com.
+terra.leadpages.net.	1800	IN	A	104.197.49.187
+training.leadpages.net.	1800	IN	CNAME	training.leadpages.net.cdn.cloudflare.net.
+tsg.leadpages.net.	1800	IN	A	104.154.35.95
+webinars.leadpages.net.	1800	IN	A	75.126.173.135
+wplayer.leadpages.net.	1800	IN	A	75.126.173.135
+www.leadpages.net.	1800	IN	CNAME	ghs.googlehosted.com.
+leadpages.net.		86400	IN	SOA	ns0.dnsmadeeasy.com. dns.dnsmadeeasy.com. 2008010418 43200 3600 1209600 180
+
+;leadpages.net
+;US_EAST
+leadpages.net.		86400	IN	SOA	ns0.dnsmadeeasy.com. dns.dnsmadeeasy.com. 2008010418 43200 3600 1209600 180
+leadpages.net.		86400	IN	NS	ns0.dnsmadeeasy.com.
+leadpages.net.		86400	IN	NS	ns1.dnsmadeeasy.com.
+leadpages.net.		86400	IN	NS	ns2.dnsmadeeasy.com.
+leadpages.net.		86400	IN	NS	ns3.dnsmadeeasy.com.
+leadpages.net.		86400	IN	NS	ns4.dnsmadeeasy.com.
+leadpages.net.		1800	IN	A	216.239.32.21
+leadpages.net.		1800	IN	A	216.239.34.21
+leadpages.net.		1800	IN	A	216.239.36.21
+leadpages.net.		1800	IN	A	216.239.38.21
+leadpages.net.		1800	IN	MX	1 aspmx.l.google.com.
+leadpages.net.		1800	IN	MX	5 alt1.aspmx.l.google.com.
+leadpages.net.		1800	IN	MX	5 alt2.aspmx.l.google.com.
+leadpages.net.		1800	IN	MX	10 alt3.aspmx.l.google.com.
+leadpages.net.		1800	IN	MX	10 alt4.aspmx.l.google.com.
+leadpages.net.		1800	IN	TXT	"v=spf1 include:_spf.google.com include:m.dripemail2.com ~all"
+leadpages.net.		1800	IN	TXT	"google-site-verification=mICa4BQfKFDUeL23L-jqYeoUwG98M86GNELM2faUEwI"
+*.leadpages.net.	60	IN	CNAME	ghs-svc-https-c1220.ghs-ssl.googlehosted.com.
+0a4efed66a150cb39093cd80991dd227.leadpages.net.	1800 IN	CNAME f2ba5966ee90673b610f9aa22efa2d84fda9587c.comodoca.com.
+79f78118c142ee721a50eb457244e7d6.leadpages.net.	1800 IN	CNAME 95e43e5afa98d2760ae0a6935f240bc0af0f3df9.comodoca.com.
+intercom._domainkey.leadpages.net. 60 IN CNAME	557ae951-f1fd-4a02-9d95-fd47d379991b.dkim.intercom.io.
+m1._domainkey.leadpages.net. 3600 IN	TXT	"k=rsa\; t=s\; p=MIGfMA0GCSqGSIb3DQEBAQUAA4GNADCBiQKBgQC+0yZzF/obBdZUQsl+lrAcnc9LgIRkI5unjB6YzklN09PQdBErMhUiiwAJaxKFktybjxH9fUi7O8j1qpKtWJYXiMYMI25vRE4MJWBaE6buzCpstREeNBhU6YYM0vnYhe6Kn5F38lRfrJF3sc1+16SvuufoeB/LvauuRRU+CEvGyQIDAQAB"
+scph0416._domainkey.leadpages.net. 1800	IN TXT	"v=DKIM1\; k=rsa\; h=sha256\; p=MIGfMA0GCSqGSIb3DQEBAQUAA4GNADCBiQKBgQDih5pVeAPRFdDHY+14sCpx2Alpv6Fa4TpfuTuvahTlynaArXq7NjLef5VaxM/qZ0jRzSK+9YSWW4ZgX56Oz/2rM+aZGcIQQeY9fnboRqOvj5yEUZE8Lb0TLOJ8LvwkI5gKn/T5soRcVcX9DQKmn/NbaRjXx1zSzEANc6NyxOfMDQIDAQAB"
+advocates.leadpages.net. 1800	IN	CNAME	leadpages.influitive.com.
+affiliates.leadpages.net. 1800	IN	CNAME	leadbrite.hasoffers.com.
+authoring.leadpages.net. 60	IN	A	104.193.18.62
+b78ad17383143c62e336a285048533de.leadpages.net.	1800 IN	CNAME 5d7e9635b0a61fd1216f8b8f8b81c85cd511924e.comodoca.com.
+bk.leadpages.net.	1800	IN	A	130.211.179.138
+blog.leadpages.net.	1800	IN	CNAME	ghs.googlehosted.com.
+c87a3b9cd8b2d6e02bda6788a09a7802.leadpages.net.	1800 IN	CNAME 5336369c80d5d827934190114a382f87c06545ff.comodoca.com.
+careers.leadpages.net.	1800	IN	CNAME	leadpages.theresumator.com.
+cdn-1.leadpages.net.	1800	IN	CNAME	c.storage.googleapis.com.
+charteris.leadpages.net. 1800	IN	A	104.197.45.94
+chef.leadpages.net.	1800	IN	A	54.165.152.25
+chefp.leadpages.net.	1800	IN	A	173.255.115.60
+chronos.leadpages.net.	1800	IN	A	104.197.223.148
+cloudflare-verify.leadpages.net. 1800 IN TXT	"262958164-28872883"
+console.leadpages.net.	1800	IN	A	199.223.236.73
+consul.leadpages.net.	1800	IN	A	104.197.223.148
+consultants.leadpages.net. 1800	IN	CNAME	ghs.googlehosted.com.
+custom-proxy.leadpages.net. 1800 IN	A	130.211.13.132
+docs.leadpages.net.	1800	IN	CNAME	docs.leadpages.net.s3-website-us-east-1.amazonaws.com.
+drip.leadpages.net.	3600	IN	TXT	"v=spf1 include:sendgrid.net ~all"
+drip.leadpages.net.	3600	IN	MX	1 mx.sendgrid.net.
+elb.leadpages.net.	1800	IN	CNAME	internal-elasticsearch-cluster-9312714.us-east-1.elb.amazonaws.com.
+gcechef.leadpages.net.	3600	IN	A	104.154.48.111
+grader.leadpages.net.	1800	IN	A	104.197.146.31
+ideas.leadpages.net.	1800	IN	CNAME	leadpages.ideas.aha.io.
+jenkins.leadpages.net.	1800	IN	A	104.197.110.83
+kafka.leadpages.net.	1800	IN	A	104.197.223.148
+kiba.leadpages.net.	3600	IN	A	146.148.91.225
+learn.leadpages.net.	1800	IN	A	216.239.32.21
+learn.leadpages.net.	1800	IN	A	216.239.34.21
+learn.leadpages.net.	1800	IN	A	216.239.36.21
+learn.leadpages.net.	1800	IN	A	216.239.38.21
+learn.leadpages.net.	1800	IN	TXT	"google-site-verification=BdOGpfdilTK9Rq-DAIBbr1wNuyI6n1ffwQNSztCNGjA"
+learn.leadpages.net.	1800	IN	AAAA	2001:4860:4802:32::15
+learn.leadpages.net.	1800	IN	AAAA	2001:4860:4802:34::15
+learn.leadpages.net.	1800	IN	AAAA	2001:4860:4802:36::15
+learn.leadpages.net.	1800	IN	AAAA	2001:4860:4802:38::15
+link.leadpages.net.	1800	IN	CNAME	leadbrite.go2cloud.org.
+locust.leadpages.net.	1800	IN	A	173.255.125.119
+makeover.leadpages.net.	1800	IN	CNAME	contest.io.
+mara.leadpages.net.	1800	IN	A	104.197.223.148
+market.leadpages.net.	1800	IN	CNAME	ghs.googlehosted.com.
+marketplace.leadpages.net. 1800	IN	CNAME	market.leadpages.net.
+mc.leadpages.net.	1800	IN	A	167.114.100.222
+melk.leadpages.net.	3600	IN	A	104.197.74.127
+mesos.leadpages.net.	1800	IN	A	104.197.223.148
+mktg-utils.leadpages.net. 1800	IN	CNAME	ghs.googlehosted.com.
+npm.leadpages.net.	1800	IN	A	173.255.127.188
+odp.leadpages.net.	1800	IN	A	104.197.223.148
+pages.leadpages.net.	60	IN	CNAME	ghs.googlehosted.com.
+partners.leadpages.net.	1800	IN	CNAME	leadpages.cakemarketing.net.
+pdj.leadpages.net.	1800	IN	A	104.197.6.119
+pelk.leadpages.net.	3600	IN	A	104.197.115.157
+podcast.leadpages.net.	1800	IN	CNAME	ghs.googlehosted.com.
+proxycheck.leadpages.net. 1800	IN	CNAME	custom-proxy.leadpages.net.
+request.leadpages.net.	1800	IN	CNAME	market.leadpages.net.
+scribe.leadpages.net.	1800	IN	A	104.197.45.94
+stage-authoring.leadpages.net. 1800 IN	A	104.193.18.99
+stage-blog.leadpages.net. 1800	IN	A	104.193.18.99
+stage-consultants.leadpages.net. 1800 IN A	104.193.18.99
+stage-library.leadpages.net. 1800 IN	A	104.193.18.99
+stage-www.leadpages.net. 1800	IN	A	104.193.18.99
+status.leadpages.net.	1800	IN	CNAME	v71vlyntykqc.stspg-customer.com.
+support.leadpages.net.	1800	IN	CNAME	leadbrite.ssl.zendesk.com.
+terra.leadpages.net.	1800	IN	A	104.197.49.187
+training.leadpages.net.	1800	IN	CNAME	training.leadpages.net.cdn.cloudflare.net.
+tsg.leadpages.net.	1800	IN	A	104.154.35.95
+webinars.leadpages.net.	1800	IN	A	75.126.173.135
+wplayer.leadpages.net.	1800	IN	A	75.126.173.135
+www.leadpages.net.	1800	IN	CNAME	ghs.googlehosted.com.
+leadpages.net.		86400	IN	SOA	ns0.dnsmadeeasy.com. dns.dnsmadeeasy.com. 2008010418 43200 3600 1209600 180
+
+;leadpages.net
+;US_WEST
+leadpages.net.		86400	IN	SOA	ns0.dnsmadeeasy.com. dns.dnsmadeeasy.com. 2008010418 43200 3600 1209600 180
+leadpages.net.		86400	IN	NS	ns0.dnsmadeeasy.com.
+leadpages.net.		86400	IN	NS	ns1.dnsmadeeasy.com.
+leadpages.net.		86400	IN	NS	ns2.dnsmadeeasy.com.
+leadpages.net.		86400	IN	NS	ns3.dnsmadeeasy.com.
+leadpages.net.		86400	IN	NS	ns4.dnsmadeeasy.com.
+leadpages.net.		1800	IN	A	216.239.32.21
+leadpages.net.		1800	IN	A	216.239.34.21
+leadpages.net.		1800	IN	A	216.239.36.21
+leadpages.net.		1800	IN	A	216.239.38.21
+leadpages.net.		1800	IN	MX	1 aspmx.l.google.com.
+leadpages.net.		1800	IN	MX	5 alt1.aspmx.l.google.com.
+leadpages.net.		1800	IN	MX	5 alt2.aspmx.l.google.com.
+leadpages.net.		1800	IN	MX	10 alt3.aspmx.l.google.com.
+leadpages.net.		1800	IN	MX	10 alt4.aspmx.l.google.com.
+leadpages.net.		1800	IN	TXT	"v=spf1 include:_spf.google.com include:m.dripemail2.com ~all"
+leadpages.net.		1800	IN	TXT	"google-site-verification=mICa4BQfKFDUeL23L-jqYeoUwG98M86GNELM2faUEwI"
+*.leadpages.net.	60	IN	CNAME	ghs-svc-https-c1220.ghs-ssl.googlehosted.com.
+0a4efed66a150cb39093cd80991dd227.leadpages.net.	1800 IN	CNAME f2ba5966ee90673b610f9aa22efa2d84fda9587c.comodoca.com.
+79f78118c142ee721a50eb457244e7d6.leadpages.net.	1800 IN	CNAME 95e43e5afa98d2760ae0a6935f240bc0af0f3df9.comodoca.com.
+intercom._domainkey.leadpages.net. 60 IN CNAME	557ae951-f1fd-4a02-9d95-fd47d379991b.dkim.intercom.io.
+m1._domainkey.leadpages.net. 3600 IN	TXT	"k=rsa\; t=s\; p=MIGfMA0GCSqGSIb3DQEBAQUAA4GNADCBiQKBgQC+0yZzF/obBdZUQsl+lrAcnc9LgIRkI5unjB6YzklN09PQdBErMhUiiwAJaxKFktybjxH9fUi7O8j1qpKtWJYXiMYMI25vRE4MJWBaE6buzCpstREeNBhU6YYM0vnYhe6Kn5F38lRfrJF3sc1+16SvuufoeB/LvauuRRU+CEvGyQIDAQAB"
+scph0416._domainkey.leadpages.net. 1800	IN TXT	"v=DKIM1\; k=rsa\; h=sha256\; p=MIGfMA0GCSqGSIb3DQEBAQUAA4GNADCBiQKBgQDih5pVeAPRFdDHY+14sCpx2Alpv6Fa4TpfuTuvahTlynaArXq7NjLef5VaxM/qZ0jRzSK+9YSWW4ZgX56Oz/2rM+aZGcIQQeY9fnboRqOvj5yEUZE8Lb0TLOJ8LvwkI5gKn/T5soRcVcX9DQKmn/NbaRjXx1zSzEANc6NyxOfMDQIDAQAB"
+advocates.leadpages.net. 1800	IN	CNAME	leadpages.influitive.com.
+affiliates.leadpages.net. 1800	IN	CNAME	leadbrite.hasoffers.com.
+authoring.leadpages.net. 60	IN	A	104.193.18.62
+b78ad17383143c62e336a285048533de.leadpages.net.	1800 IN	CNAME 5d7e9635b0a61fd1216f8b8f8b81c85cd511924e.comodoca.com.
+bk.leadpages.net.	1800	IN	A	130.211.179.138
+blog.leadpages.net.	1800	IN	CNAME	ghs.googlehosted.com.
+c87a3b9cd8b2d6e02bda6788a09a7802.leadpages.net.	1800 IN	CNAME 5336369c80d5d827934190114a382f87c06545ff.comodoca.com.
+careers.leadpages.net.	1800	IN	CNAME	leadpages.theresumator.com.
+cdn-1.leadpages.net.	1800	IN	CNAME	c.storage.googleapis.com.
+charteris.leadpages.net. 1800	IN	A	104.197.45.94
+chef.leadpages.net.	1800	IN	A	54.165.152.25
+chefp.leadpages.net.	1800	IN	A	173.255.115.60
+chronos.leadpages.net.	1800	IN	A	104.197.223.148
+cloudflare-verify.leadpages.net. 1800 IN TXT	"262958164-28872883"
+console.leadpages.net.	1800	IN	A	199.223.236.73
+consul.leadpages.net.	1800	IN	A	104.197.223.148
+consultants.leadpages.net. 1800	IN	CNAME	ghs.googlehosted.com.
+custom-proxy.leadpages.net. 1800 IN	A	130.211.13.132
+docs.leadpages.net.	1800	IN	CNAME	docs.leadpages.net.s3-website-us-east-1.amazonaws.com.
+drip.leadpages.net.	3600	IN	TXT	"v=spf1 include:sendgrid.net ~all"
+drip.leadpages.net.	3600	IN	MX	1 mx.sendgrid.net.
+elb.leadpages.net.	1800	IN	CNAME	internal-elasticsearch-cluster-9312714.us-east-1.elb.amazonaws.com.
+gcechef.leadpages.net.	3600	IN	A	104.154.48.111
+grader.leadpages.net.	1800	IN	A	104.197.146.31
+ideas.leadpages.net.	1800	IN	CNAME	leadpages.ideas.aha.io.
+jenkins.leadpages.net.	1800	IN	A	104.197.110.83
+kafka.leadpages.net.	1800	IN	A	104.197.223.148
+kiba.leadpages.net.	3600	IN	A	146.148.91.225
+learn.leadpages.net.	1800	IN	A	216.239.32.21
+learn.leadpages.net.	1800	IN	A	216.239.34.21
+learn.leadpages.net.	1800	IN	A	216.239.36.21
+learn.leadpages.net.	1800	IN	A	216.239.38.21
+learn.leadpages.net.	1800	IN	TXT	"google-site-verification=BdOGpfdilTK9Rq-DAIBbr1wNuyI6n1ffwQNSztCNGjA"
+learn.leadpages.net.	1800	IN	AAAA	2001:4860:4802:32::15
+learn.leadpages.net.	1800	IN	AAAA	2001:4860:4802:34::15
+learn.leadpages.net.	1800	IN	AAAA	2001:4860:4802:36::15
+learn.leadpages.net.	1800	IN	AAAA	2001:4860:4802:38::15
+link.leadpages.net.	1800	IN	CNAME	leadbrite.go2cloud.org.
+locust.leadpages.net.	1800	IN	A	173.255.125.119
+makeover.leadpages.net.	1800	IN	CNAME	contest.io.
+mara.leadpages.net.	1800	IN	A	104.197.223.148
+market.leadpages.net.	1800	IN	CNAME	ghs.googlehosted.com.
+marketplace.leadpages.net. 1800	IN	CNAME	market.leadpages.net.
+mc.leadpages.net.	1800	IN	A	167.114.100.222
+melk.leadpages.net.	3600	IN	A	104.197.74.127
+mesos.leadpages.net.	1800	IN	A	104.197.223.148
+mktg-utils.leadpages.net. 1800	IN	CNAME	ghs.googlehosted.com.
+npm.leadpages.net.	1800	IN	A	173.255.127.188
+odp.leadpages.net.	1800	IN	A	104.197.223.148
+pages.leadpages.net.	60	IN	CNAME	ghs.googlehosted.com.
+partners.leadpages.net.	1800	IN	CNAME	leadpages.cakemarketing.net.
+pdj.leadpages.net.	1800	IN	A	104.197.6.119
+pelk.leadpages.net.	3600	IN	A	104.197.115.157
+podcast.leadpages.net.	1800	IN	CNAME	ghs.googlehosted.com.
+proxycheck.leadpages.net. 1800	IN	CNAME	custom-proxy.leadpages.net.
+request.leadpages.net.	1800	IN	CNAME	market.leadpages.net.
+scribe.leadpages.net.	1800	IN	A	104.197.45.94
+stage-authoring.leadpages.net. 1800 IN	A	104.193.18.99
+stage-blog.leadpages.net. 1800	IN	A	104.193.18.99
+stage-consultants.leadpages.net. 1800 IN A	104.193.18.99
+stage-library.leadpages.net. 1800 IN	A	104.193.18.99
+stage-www.leadpages.net. 1800	IN	A	104.193.18.99
+status.leadpages.net.	1800	IN	CNAME	v71vlyntykqc.stspg-customer.com.
+support.leadpages.net.	1800	IN	CNAME	leadbrite.ssl.zendesk.com.
+terra.leadpages.net.	1800	IN	A	104.197.49.187
+training.leadpages.net.	1800	IN	CNAME	training.leadpages.net.cdn.cloudflare.net.
+tsg.leadpages.net.	1800	IN	A	104.154.35.95
+webinars.leadpages.net.	1800	IN	A	75.126.173.135
+wplayer.leadpages.net.	1800	IN	A	75.126.173.135
+www.leadpages.net.	1800	IN	CNAME	ghs.googlehosted.com.
+leadpages.net.		86400	IN	SOA	ns0.dnsmadeeasy.com. dns.dnsmadeeasy.com. 2008010418 43200 3600 1209600 180
+
+;leadpages.net
+;ASIA_PAC
+leadpages.net.		86400	IN	SOA	ns0.dnsmadeeasy.com. dns.dnsmadeeasy.com. 2008010418 43200 3600 1209600 180
+leadpages.net.		86400	IN	NS	ns0.dnsmadeeasy.com.
+leadpages.net.		86400	IN	NS	ns1.dnsmadeeasy.com.
+leadpages.net.		86400	IN	NS	ns2.dnsmadeeasy.com.
+leadpages.net.		86400	IN	NS	ns3.dnsmadeeasy.com.
+leadpages.net.		86400	IN	NS	ns4.dnsmadeeasy.com.
+leadpages.net.		1800	IN	A	216.239.32.21
+leadpages.net.		1800	IN	A	216.239.34.21
+leadpages.net.		1800	IN	A	216.239.36.21
+leadpages.net.		1800	IN	A	216.239.38.21
+leadpages.net.		1800	IN	MX	1 aspmx.l.google.com.
+leadpages.net.		1800	IN	MX	5 alt1.aspmx.l.google.com.
+leadpages.net.		1800	IN	MX	5 alt2.aspmx.l.google.com.
+leadpages.net.		1800	IN	MX	10 alt3.aspmx.l.google.com.
+leadpages.net.		1800	IN	MX	10 alt4.aspmx.l.google.com.
+leadpages.net.		1800	IN	TXT	"v=spf1 include:_spf.google.com include:m.dripemail2.com ~all"
+leadpages.net.		1800	IN	TXT	"google-site-verification=mICa4BQfKFDUeL23L-jqYeoUwG98M86GNELM2faUEwI"
+*.leadpages.net.	60	IN	CNAME	ghs-svc-https-c1220.ghs-ssl.googlehosted.com.
+0a4efed66a150cb39093cd80991dd227.leadpages.net.	1800 IN	CNAME f2ba5966ee90673b610f9aa22efa2d84fda9587c.comodoca.com.
+79f78118c142ee721a50eb457244e7d6.leadpages.net.	1800 IN	CNAME 95e43e5afa98d2760ae0a6935f240bc0af0f3df9.comodoca.com.
+intercom._domainkey.leadpages.net. 60 IN CNAME	557ae951-f1fd-4a02-9d95-fd47d379991b.dkim.intercom.io.
+m1._domainkey.leadpages.net. 3600 IN	TXT	"k=rsa\; t=s\; p=MIGfMA0GCSqGSIb3DQEBAQUAA4GNADCBiQKBgQC+0yZzF/obBdZUQsl+lrAcnc9LgIRkI5unjB6YzklN09PQdBErMhUiiwAJaxKFktybjxH9fUi7O8j1qpKtWJYXiMYMI25vRE4MJWBaE6buzCpstREeNBhU6YYM0vnYhe6Kn5F38lRfrJF3sc1+16SvuufoeB/LvauuRRU+CEvGyQIDAQAB"
+scph0416._domainkey.leadpages.net. 1800	IN TXT	"v=DKIM1\; k=rsa\; h=sha256\; p=MIGfMA0GCSqGSIb3DQEBAQUAA4GNADCBiQKBgQDih5pVeAPRFdDHY+14sCpx2Alpv6Fa4TpfuTuvahTlynaArXq7NjLef5VaxM/qZ0jRzSK+9YSWW4ZgX56Oz/2rM+aZGcIQQeY9fnboRqOvj5yEUZE8Lb0TLOJ8LvwkI5gKn/T5soRcVcX9DQKmn/NbaRjXx1zSzEANc6NyxOfMDQIDAQAB"
+advocates.leadpages.net. 1800	IN	CNAME	leadpages.influitive.com.
+affiliates.leadpages.net. 1800	IN	CNAME	leadbrite.hasoffers.com.
+authoring.leadpages.net. 60	IN	A	104.193.18.62
+b78ad17383143c62e336a285048533de.leadpages.net.	1800 IN	CNAME 5d7e9635b0a61fd1216f8b8f8b81c85cd511924e.comodoca.com.
+bk.leadpages.net.	1800	IN	A	130.211.179.138
+blog.leadpages.net.	1800	IN	CNAME	ghs.googlehosted.com.
+c87a3b9cd8b2d6e02bda6788a09a7802.leadpages.net.	1800 IN	CNAME 5336369c80d5d827934190114a382f87c06545ff.comodoca.com.
+careers.leadpages.net.	1800	IN	CNAME	leadpages.theresumator.com.
+cdn-1.leadpages.net.	1800	IN	CNAME	c.storage.googleapis.com.
+charteris.leadpages.net. 1800	IN	A	104.197.45.94
+chef.leadpages.net.	1800	IN	A	54.165.152.25
+chefp.leadpages.net.	1800	IN	A	173.255.115.60
+chronos.leadpages.net.	1800	IN	A	104.197.223.148
+cloudflare-verify.leadpages.net. 1800 IN TXT	"262958164-28872883"
+console.leadpages.net.	1800	IN	A	199.223.236.73
+consul.leadpages.net.	1800	IN	A	104.197.223.148
+consultants.leadpages.net. 1800	IN	CNAME	ghs.googlehosted.com.
+custom-proxy.leadpages.net. 1800 IN	A	130.211.13.132
+docs.leadpages.net.	1800	IN	CNAME	docs.leadpages.net.s3-website-us-east-1.amazonaws.com.
+drip.leadpages.net.	3600	IN	TXT	"v=spf1 include:sendgrid.net ~all"
+drip.leadpages.net.	3600	IN	MX	1 mx.sendgrid.net.
+elb.leadpages.net.	1800	IN	CNAME	internal-elasticsearch-cluster-9312714.us-east-1.elb.amazonaws.com.
+gcechef.leadpages.net.	3600	IN	A	104.154.48.111
+grader.leadpages.net.	1800	IN	A	104.197.146.31
+ideas.leadpages.net.	1800	IN	CNAME	leadpages.ideas.aha.io.
+jenkins.leadpages.net.	1800	IN	A	104.197.110.83
+kafka.leadpages.net.	1800	IN	A	104.197.223.148
+kiba.leadpages.net.	3600	IN	A	146.148.91.225
+learn.leadpages.net.	1800	IN	A	216.239.32.21
+learn.leadpages.net.	1800	IN	A	216.239.34.21
+learn.leadpages.net.	1800	IN	A	216.239.36.21
+learn.leadpages.net.	1800	IN	A	216.239.38.21
+learn.leadpages.net.	1800	IN	TXT	"google-site-verification=BdOGpfdilTK9Rq-DAIBbr1wNuyI6n1ffwQNSztCNGjA"
+learn.leadpages.net.	1800	IN	AAAA	2001:4860:4802:32::15
+learn.leadpages.net.	1800	IN	AAAA	2001:4860:4802:34::15
+learn.leadpages.net.	1800	IN	AAAA	2001:4860:4802:36::15
+learn.leadpages.net.	1800	IN	AAAA	2001:4860:4802:38::15
+link.leadpages.net.	1800	IN	CNAME	leadbrite.go2cloud.org.
+locust.leadpages.net.	1800	IN	A	173.255.125.119
+makeover.leadpages.net.	1800	IN	CNAME	contest.io.
+mara.leadpages.net.	1800	IN	A	104.197.223.148
+market.leadpages.net.	1800	IN	CNAME	ghs.googlehosted.com.
+marketplace.leadpages.net. 1800	IN	CNAME	market.leadpages.net.
+mc.leadpages.net.	1800	IN	A	167.114.100.222
+melk.leadpages.net.	3600	IN	A	104.197.74.127
+mesos.leadpages.net.	1800	IN	A	104.197.223.148
+mktg-utils.leadpages.net. 1800	IN	CNAME	ghs.googlehosted.com.
+npm.leadpages.net.	1800	IN	A	173.255.127.188
+odp.leadpages.net.	1800	IN	A	104.197.223.148
+pages.leadpages.net.	60	IN	CNAME	ghs.googlehosted.com.
+partners.leadpages.net.	1800	IN	CNAME	leadpages.cakemarketing.net.
+pdj.leadpages.net.	1800	IN	A	104.197.6.119
+pelk.leadpages.net.	3600	IN	A	104.197.115.157
+podcast.leadpages.net.	1800	IN	CNAME	ghs.googlehosted.com.
+proxycheck.leadpages.net. 1800	IN	CNAME	custom-proxy.leadpages.net.
+request.leadpages.net.	1800	IN	CNAME	market.leadpages.net.
+scribe.leadpages.net.	1800	IN	A	104.197.45.94
+stage-authoring.leadpages.net. 1800 IN	A	104.193.18.99
+stage-blog.leadpages.net. 1800	IN	A	104.193.18.99
+stage-consultants.leadpages.net. 1800 IN A	104.193.18.99
+stage-library.leadpages.net. 1800 IN	A	104.193.18.99
+stage-www.leadpages.net. 1800	IN	A	104.193.18.99
+status.leadpages.net.	1800	IN	CNAME	v71vlyntykqc.stspg-customer.com.
+support.leadpages.net.	1800	IN	CNAME	leadbrite.ssl.zendesk.com.
+terra.leadpages.net.	1800	IN	A	104.197.49.187
+training.leadpages.net.	1800	IN	CNAME	training.leadpages.net.cdn.cloudflare.net.
+tsg.leadpages.net.	1800	IN	A	104.154.35.95
+webinars.leadpages.net.	1800	IN	A	75.126.173.135
+wplayer.leadpages.net.	1800	IN	A	75.126.173.135
+www.leadpages.net.	1800	IN	CNAME	ghs.googlehosted.com.
+leadpages.net.		86400	IN	SOA	ns0.dnsmadeeasy.com. dns.dnsmadeeasy.com. 2008010418 43200 3600 1209600 180
+
+;leadpages.net
+;OCEANIA
+leadpages.net.		86400	IN	SOA	ns0.dnsmadeeasy.com. dns.dnsmadeeasy.com. 2008010418 43200 3600 1209600 180
+leadpages.net.		86400	IN	NS	ns0.dnsmadeeasy.com.
+leadpages.net.		86400	IN	NS	ns1.dnsmadeeasy.com.
+leadpages.net.		86400	IN	NS	ns2.dnsmadeeasy.com.
+leadpages.net.		86400	IN	NS	ns3.dnsmadeeasy.com.
+leadpages.net.		86400	IN	NS	ns4.dnsmadeeasy.com.
+leadpages.net.		1800	IN	A	216.239.32.21
+leadpages.net.		1800	IN	A	216.239.34.21
+leadpages.net.		1800	IN	A	216.239.36.21
+leadpages.net.		1800	IN	A	216.239.38.21
+leadpages.net.		1800	IN	MX	1 aspmx.l.google.com.
+leadpages.net.		1800	IN	MX	5 alt1.aspmx.l.google.com.
+leadpages.net.		1800	IN	MX	5 alt2.aspmx.l.google.com.
+leadpages.net.		1800	IN	MX	10 alt3.aspmx.l.google.com.
+leadpages.net.		1800	IN	MX	10 alt4.aspmx.l.google.com.
+leadpages.net.		1800	IN	TXT	"v=spf1 include:_spf.google.com include:m.dripemail2.com ~all"
+leadpages.net.		1800	IN	TXT	"google-site-verification=mICa4BQfKFDUeL23L-jqYeoUwG98M86GNELM2faUEwI"
+*.leadpages.net.	60	IN	CNAME	ghs-svc-https-c1220.ghs-ssl.googlehosted.com.
+0a4efed66a150cb39093cd80991dd227.leadpages.net.	1800 IN	CNAME f2ba5966ee90673b610f9aa22efa2d84fda9587c.comodoca.com.
+79f78118c142ee721a50eb457244e7d6.leadpages.net.	1800 IN	CNAME 95e43e5afa98d2760ae0a6935f240bc0af0f3df9.comodoca.com.
+intercom._domainkey.leadpages.net. 60 IN CNAME	557ae951-f1fd-4a02-9d95-fd47d379991b.dkim.intercom.io.
+m1._domainkey.leadpages.net. 3600 IN	TXT	"k=rsa\; t=s\; p=MIGfMA0GCSqGSIb3DQEBAQUAA4GNADCBiQKBgQC+0yZzF/obBdZUQsl+lrAcnc9LgIRkI5unjB6YzklN09PQdBErMhUiiwAJaxKFktybjxH9fUi7O8j1qpKtWJYXiMYMI25vRE4MJWBaE6buzCpstREeNBhU6YYM0vnYhe6Kn5F38lRfrJF3sc1+16SvuufoeB/LvauuRRU+CEvGyQIDAQAB"
+scph0416._domainkey.leadpages.net. 1800	IN TXT	"v=DKIM1\; k=rsa\; h=sha256\; p=MIGfMA0GCSqGSIb3DQEBAQUAA4GNADCBiQKBgQDih5pVeAPRFdDHY+14sCpx2Alpv6Fa4TpfuTuvahTlynaArXq7NjLef5VaxM/qZ0jRzSK+9YSWW4ZgX56Oz/2rM+aZGcIQQeY9fnboRqOvj5yEUZE8Lb0TLOJ8LvwkI5gKn/T5soRcVcX9DQKmn/NbaRjXx1zSzEANc6NyxOfMDQIDAQAB"
+advocates.leadpages.net. 1800	IN	CNAME	leadpages.influitive.com.
+affiliates.leadpages.net. 1800	IN	CNAME	leadbrite.hasoffers.com.
+authoring.leadpages.net. 60	IN	A	104.193.18.62
+b78ad17383143c62e336a285048533de.leadpages.net.	1800 IN	CNAME 5d7e9635b0a61fd1216f8b8f8b81c85cd511924e.comodoca.com.
+bk.leadpages.net.	1800	IN	A	130.211.179.138
+blog.leadpages.net.	1800	IN	CNAME	ghs.googlehosted.com.
+c87a3b9cd8b2d6e02bda6788a09a7802.leadpages.net.	1800 IN	CNAME 5336369c80d5d827934190114a382f87c06545ff.comodoca.com.
+careers.leadpages.net.	1800	IN	CNAME	leadpages.theresumator.com.
+cdn-1.leadpages.net.	1800	IN	CNAME	c.storage.googleapis.com.
+charteris.leadpages.net. 1800	IN	A	104.197.45.94
+chef.leadpages.net.	1800	IN	A	54.165.152.25
+chefp.leadpages.net.	1800	IN	A	173.255.115.60
+chronos.leadpages.net.	1800	IN	A	104.197.223.148
+cloudflare-verify.leadpages.net. 1800 IN TXT	"262958164-28872883"
+console.leadpages.net.	1800	IN	A	199.223.236.73
+consul.leadpages.net.	1800	IN	A	104.197.223.148
+consultants.leadpages.net. 1800	IN	CNAME	ghs.googlehosted.com.
+custom-proxy.leadpages.net. 1800 IN	A	130.211.13.132
+docs.leadpages.net.	1800	IN	CNAME	docs.leadpages.net.s3-website-us-east-1.amazonaws.com.
+drip.leadpages.net.	3600	IN	TXT	"v=spf1 include:sendgrid.net ~all"
+drip.leadpages.net.	3600	IN	MX	1 mx.sendgrid.net.
+elb.leadpages.net.	1800	IN	CNAME	internal-elasticsearch-cluster-9312714.us-east-1.elb.amazonaws.com.
+gcechef.leadpages.net.	3600	IN	A	104.154.48.111
+grader.leadpages.net.	1800	IN	A	104.197.146.31
+ideas.leadpages.net.	1800	IN	CNAME	leadpages.ideas.aha.io.
+jenkins.leadpages.net.	1800	IN	A	104.197.110.83
+kafka.leadpages.net.	1800	IN	A	104.197.223.148
+kiba.leadpages.net.	3600	IN	A	146.148.91.225
+learn.leadpages.net.	1800	IN	A	216.239.32.21
+learn.leadpages.net.	1800	IN	A	216.239.34.21
+learn.leadpages.net.	1800	IN	A	216.239.36.21
+learn.leadpages.net.	1800	IN	A	216.239.38.21
+learn.leadpages.net.	1800	IN	TXT	"google-site-verification=BdOGpfdilTK9Rq-DAIBbr1wNuyI6n1ffwQNSztCNGjA"
+learn.leadpages.net.	1800	IN	AAAA	2001:4860:4802:32::15
+learn.leadpages.net.	1800	IN	AAAA	2001:4860:4802:34::15
+learn.leadpages.net.	1800	IN	AAAA	2001:4860:4802:36::15
+learn.leadpages.net.	1800	IN	AAAA	2001:4860:4802:38::15
+link.leadpages.net.	1800	IN	CNAME	leadbrite.go2cloud.org.
+locust.leadpages.net.	1800	IN	A	173.255.125.119
+makeover.leadpages.net.	1800	IN	CNAME	contest.io.
+mara.leadpages.net.	1800	IN	A	104.197.223.148
+market.leadpages.net.	1800	IN	CNAME	ghs.googlehosted.com.
+marketplace.leadpages.net. 1800	IN	CNAME	market.leadpages.net.
+mc.leadpages.net.	1800	IN	A	167.114.100.222
+melk.leadpages.net.	3600	IN	A	104.197.74.127
+mesos.leadpages.net.	1800	IN	A	104.197.223.148
+mktg-utils.leadpages.net. 1800	IN	CNAME	ghs.googlehosted.com.
+npm.leadpages.net.	1800	IN	A	173.255.127.188
+odp.leadpages.net.	1800	IN	A	104.197.223.148
+pages.leadpages.net.	60	IN	CNAME	ghs.googlehosted.com.
+partners.leadpages.net.	1800	IN	CNAME	leadpages.cakemarketing.net.
+pdj.leadpages.net.	1800	IN	A	104.197.6.119
+pelk.leadpages.net.	3600	IN	A	104.197.115.157
+podcast.leadpages.net.	1800	IN	CNAME	ghs.googlehosted.com.
+proxycheck.leadpages.net. 1800	IN	CNAME	custom-proxy.leadpages.net.
+request.leadpages.net.	1800	IN	CNAME	market.leadpages.net.
+scribe.leadpages.net.	1800	IN	A	104.197.45.94
+stage-authoring.leadpages.net. 1800 IN	A	104.193.18.99
+stage-blog.leadpages.net. 1800	IN	A	104.193.18.99
+stage-consultants.leadpages.net. 1800 IN A	104.193.18.99
+stage-library.leadpages.net. 1800 IN	A	104.193.18.99
+stage-www.leadpages.net. 1800	IN	A	104.193.18.99
+status.leadpages.net.	1800	IN	CNAME	v71vlyntykqc.stspg-customer.com.
+support.leadpages.net.	1800	IN	CNAME	leadbrite.ssl.zendesk.com.
+terra.leadpages.net.	1800	IN	A	104.197.49.187
+training.leadpages.net.	1800	IN	CNAME	training.leadpages.net.cdn.cloudflare.net.
+tsg.leadpages.net.	1800	IN	A	104.154.35.95
+webinars.leadpages.net.	1800	IN	A	75.126.173.135
+wplayer.leadpages.net.	1800	IN	A	75.126.173.135
+www.leadpages.net.	1800	IN	CNAME	ghs.googlehosted.com.
+leadpages.net.		86400	IN	SOA	ns0.dnsmadeeasy.com. dns.dnsmadeeasy.com. 2008010418 43200 3600 1209600 180
+

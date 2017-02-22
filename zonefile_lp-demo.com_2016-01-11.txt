@@ -1,0 +1,11 @@
+;lp-demo.com
+lp-demo.com.		86400	IN	SOA	ns0.dnsmadeeasy.com. dns.dnsmadeeasy.com. 2008010108 43200 3600 1209600 180
+lp-demo.com.		900	IN	MX	0 162.253.224.6.
+lp-demo.com.		86400	IN	NS	ns0.dnsmadeeasy.com.
+lp-demo.com.		86400	IN	NS	ns1.dnsmadeeasy.com.
+lp-demo.com.		86400	IN	NS	ns2.dnsmadeeasy.com.
+lp-demo.com.		86400	IN	NS	ns3.dnsmadeeasy.com.
+lp-demo.com.		86400	IN	NS	ns4.dnsmadeeasy.com.
+*.lp-demo.com.		900	IN	A	198.91.89.103
+lp-demo.com.		86400	IN	SOA	ns0.dnsmadeeasy.com. dns.dnsmadeeasy.com. 2008010108 43200 3600 1209600 180
+

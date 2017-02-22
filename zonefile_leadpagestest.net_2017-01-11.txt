@@ -1,0 +1,59 @@
+;leadpagestest.net
+leadpagestest.net.	86400	IN	SOA	ns0.dnsmadeeasy.com. dns.dnsmadeeasy.com. 2008010189 43200 3600 1209600 180
+leadpagestest.net.	1800	IN	A	216.239.32.21
+leadpagestest.net.	1800	IN	A	216.239.34.21
+leadpagestest.net.	1800	IN	A	216.239.36.21
+leadpagestest.net.	1800	IN	A	216.239.38.21
+leadpagestest.net.	86400	IN	NS	ns0.dnsmadeeasy.com.
+leadpagestest.net.	86400	IN	NS	ns1.dnsmadeeasy.com.
+leadpagestest.net.	86400	IN	NS	ns2.dnsmadeeasy.com.
+leadpagestest.net.	86400	IN	NS	ns3.dnsmadeeasy.com.
+leadpagestest.net.	86400	IN	NS	ns4.dnsmadeeasy.com.
+leadpagestest.net.	1800	IN	MX	1 aspmx.l.google.com.
+leadpagestest.net.	1800	IN	MX	5 alt1.aspmx.l.google.com.
+leadpagestest.net.	1800	IN	MX	5 alt2.aspmx.l.google.com.
+leadpagestest.net.	1800	IN	MX	10 aspmx2.googlemail.com.
+leadpagestest.net.	1800	IN	MX	10 aspmx3.googlemail.com.
+leadpagestest.net.	1800	IN	TXT	"google-site-verification=BdOGpfdilTK9Rq-DAIBbr1wNuyI6n1ffwQNSztCNGjA"
+leadpagestest.net.	1800	IN	TXT	"google-site-verification=cnVxSd2XOG7mhRaAolLL7_KOcmoGB1i1QTVH4d1RBUs"
+*.leadpagestest.net.	1800	IN	CNAME	ghs.googlehosted.com.
+authoring.leadpagestest.net. 1800 IN	CNAME	ghs.googlehosted.com.
+blog.leadpagestest.net.	1800	IN	CNAME	ghs.googlehosted.com.
+center.leadpagestest.net. 1800	IN	CNAME	ghs.googlehosted.com.
+center-blog.leadpagestest.net. 1800 IN	CNAME	ghs.googlehosted.com.
+charteris.leadpagestest.net. 1800 IN	A	104.197.45.94
+chronos.leadpagestest.net. 1800	IN	A	130.211.113.105
+co-old.leadpagestest.net. 1800	IN	A	199.223.236.73
+consul.leadpagestest.net. 1800	IN	A	130.211.113.105
+consultants.leadpagestest.net. 1800 IN	CNAME	ghs.googlehosted.com.
+converted-test.leadpagestest.net. 1800 IN CNAME	ghs.googlehosted.com.
+courses.leadpagestest.net. 1800	IN	NS	ned.ns.cloudflare.com.
+courses.leadpagestest.net. 1800	IN	NS	dell.ns.cloudflare.com.
+custom-proxy.leadpagestest.net.	60 IN	A	130.211.7.164
+design-prototypes.leadpagestest.net. 1800 IN A	104.197.45.94
+grafana.leadpagestest.net. 1800	IN	A	146.148.87.10
+jenkins.leadpagestest.net. 1800	IN	A	130.211.179.138
+jenku.leadpagestest.net. 1800	IN	A	104.197.157.0
+kafka.leadpagestest.net. 1800	IN	A	130.211.113.105
+legos.leadpagestest.net. 1800	IN	A	104.197.45.94
+lppagetest.leadpagestest.net. 1800 IN	A	104.197.45.94
+mara.leadpagestest.net.	1800	IN	A	130.211.113.105
+mesos.leadpagestest.net. 1800	IN	A	130.211.113.105
+odp.leadpagestest.net.	1800	IN	A	130.211.113.105
+omg.leadpagestest.net.	1800	IN	A	104.197.45.94
+podcast.leadpagestest.net. 1800	IN	CNAME	ghs.googlehosted.com.
+prom1.leadpagestest.net. 1800	IN	A	104.197.202.147
+proxy.leadpagestest.net. 1800	IN	A	104.154.73.80
+rabbit.leadpagestest.net. 1800	IN	A	130.211.113.105
+sup.leadpagestest.net.	1800	IN	A	104.197.45.94
+supw.leadpagestest.net.	1800	IN	A	104.197.45.94
+swag.leadpagestest.net.	1800	IN	A	104.197.45.94
+td.leadpagestest.net.	1800	IN	A	104.197.45.94
+td-dev.leadpagestest.net. 1800	IN	A	104.197.45.94
+terra.leadpagestest.net. 1800	IN	A	104.197.49.187
+trace.leadpagestest.net. 1800	IN	A	104.154.70.232
+tsg.leadpagestest.net.	1800	IN	A	104.197.127.215
+ut.leadpagestest.net.	1800	IN	A	104.197.45.94
+widgets.leadpagestest.net. 1800	IN	A	104.197.45.94
+leadpagestest.net.	86400	IN	SOA	ns0.dnsmadeeasy.com. dns.dnsmadeeasy.com. 2008010189 43200 3600 1209600 180
+

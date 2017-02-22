@@ -1,0 +1,18 @@
+;digitalassetdelivery.net
+digitalassetdelivery.net. 86400	IN	SOA	ns0.dnsmadeeasy.com. dns.dnsmadeeasy.com. 2008010139 43200 3600 1209600 180
+digitalassetdelivery.net. 1800	IN	A	104.197.142.115
+digitalassetdelivery.net. 86400	IN	NS	ns0.dnsmadeeasy.com.
+digitalassetdelivery.net. 86400	IN	NS	ns1.dnsmadeeasy.com.
+digitalassetdelivery.net. 86400	IN	NS	ns2.dnsmadeeasy.com.
+digitalassetdelivery.net. 86400	IN	NS	ns3.dnsmadeeasy.com.
+digitalassetdelivery.net. 86400	IN	NS	ns4.dnsmadeeasy.com.
+digitalassetdelivery.net. 3600	IN	MX	1 aspmx.l.google.com.
+digitalassetdelivery.net. 3600	IN	MX	5 alt1.aspmx.l.google.com.
+digitalassetdelivery.net. 3600	IN	MX	5 alt2.aspmx.l.google.com.
+digitalassetdelivery.net. 3600	IN	MX	10 aspmx2.googlemail.com.
+digitalassetdelivery.net. 3600	IN	MX	10 aspmx3.googlemail.com.
+digitalassetdelivery.net. 1800	IN	TXT	"v=spf1 include:_spf.google.com ~all"
+digitalassetdelivery.net. 1800	IN	TXT	"google-site-verification=ZBh-o9coXcgROUiIorv0uNk9PLEtoslg-mRNeinQOOA"
+*.digitalassetdelivery.net. 1800 IN	A	104.197.142.115
+google._domainkey.digitalassetdelivery.net. 1800 IN TXT	"v=DKIM1\;" "k=rsa\;" "p=MIGfMA0GCSqGSIb3DQEBAQUAA4GNADCBiQKBgQCBo+2iArS7krI7+6Q+2UdwywY+ZUityVGGgcEO0B2wEIOzLB2dZKdMrezz//G98GGsTSaJGbBVll3dV30ya1qbi1UiL96YerG/9cDJRfSntwUTQCRGQnLFCCYtBhDc4SnYLDnO1St1oGfo0YPZERlSpYM/v8XJ1scvEnaxu1sodQIDAQAB"
+digitalassetdelivery.net. 86400	IN	SOA	ns0.dnsmadeeasy.com. dns.dnsmadeeasy.com. 2008010139 43200 3600 1209600 180

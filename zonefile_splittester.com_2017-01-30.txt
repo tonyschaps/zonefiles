@@ -1,0 +1,15 @@
+;splittester.com
+splittester.com.	86400	IN	SOA	ns0.dnsmadeeasy.com. dns.dnsmadeeasy.com. 2008010115 43200 3600 1209600 180
+splittester.com.	86400	IN	NS	ns0.dnsmadeeasy.com.
+splittester.com.	86400	IN	NS	ns1.dnsmadeeasy.com.
+splittester.com.	86400	IN	NS	ns2.dnsmadeeasy.com.
+splittester.com.	86400	IN	NS	ns3.dnsmadeeasy.com.
+splittester.com.	86400	IN	NS	ns4.dnsmadeeasy.com.
+splittester.com.	86400	IN	NS	ns-cloud-e1.googledomains.com.
+splittester.com.	86400	IN	NS	ns-cloud-e2.googledomains.com.
+splittester.com.	86400	IN	NS	ns-cloud-e3.googledomains.com.
+splittester.com.	86400	IN	NS	ns-cloud-e4.googledomains.com.
+splittester.com.	60	IN	TXT	"v=spf1 include:spf.mandrillapp.com ?all"
+splittester.com.	60	IN	TXT	"google-site-verification=uELRhYwWTVgZVkfFGd_JWLIbDlOFMy43XvY7mn6lHe4"
+mandrill._domainkey.splittester.com. 1800 IN TXT "v=DKIM1\; k=rsa\; p=MIGfMA0GCSqGSIb3DQEBAQUAA4GNADCBiQKBgQCrLHiExVd55zd/IQ/J/mRwSRMAocV/hMB3jXwaHH36d9NaVynQFYV8NaWi69c1veUtRzGt7yAioXqLj7Z4TeEUoOLgrKsn8YnckGs9i3B3tVFB+Ch/4mPhXWiNfNdynHWBcPcbJ8kjEQ2U8y78dHZj1YeRXXVvWob2OaKynO8/lQIDAQAB\;"
+splittester.com.	86400	IN	SOA	ns0.dnsmadeeasy.com. dns.dnsmadeeasy.com. 2008010115 43200 3600 1209600 180

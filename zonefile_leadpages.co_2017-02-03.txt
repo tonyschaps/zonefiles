@@ -1,0 +1,15 @@
+;leadpages.co
+leadpages.co.		86400	IN	SOA	ns0.dnsmadeeasy.com. dns.dnsmadeeasy.com. 2008010142 43200 3600 1209600 180
+leadpages.co.		1800	IN	A	104.197.142.115
+leadpages.co.		86400	IN	NS	ns0.dnsmadeeasy.com.
+leadpages.co.		86400	IN	NS	ns1.dnsmadeeasy.com.
+leadpages.co.		86400	IN	NS	ns2.dnsmadeeasy.com.
+leadpages.co.		86400	IN	NS	ns3.dnsmadeeasy.com.
+leadpages.co.		86400	IN	NS	ns4.dnsmadeeasy.com.
+leadpages.co.		1800	IN	TXT	"google-site-verification=pJJlfDjxGbyMuY_N6ryBtZtoRUo0KMLRHKqwAaH4BcE"
+*.leadpages.co.		1800	IN	CNAME	ghs.googlehosted.com.
+90a8e977bff99163c6eccaf5e74426f5.leadpages.co. 1800 IN CNAME 39a5be72340387bd97fd14e312a8a7985f7e305d.comodoca.com.
+market.leadpages.co.	1800	IN	CNAME	ghs.googlehosted.com.
+marketplace.leadpages.co. 1800	IN	CNAME	market.leadpages.co.
+www.leadpages.co.	1800	IN	A	104.197.142.115
+leadpages.co.		86400	IN	SOA	ns0.dnsmadeeasy.com. dns.dnsmadeeasy.com. 2008010142 43200 3600 1209600 180

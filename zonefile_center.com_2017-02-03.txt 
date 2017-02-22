@@ -1,0 +1,18 @@
+;center.com
+center.com.		86400	IN	SOA	ns0.dnsmadeeasy.com. dns.dnsmadeeasy.com. 2008010131 43200 3600 1209600 180
+center.com.		1800	IN	A	104.197.142.115
+center.com.		3600	IN	TXT	"v=spf1 include:_spf.google.com ~all"
+center.com.		3600	IN	TXT	"google-site-verification=ui1kfMY9pdr3w9_D1b6RSBrP_yBCgdodqlNfFmr-8_U"
+center.com.		1800	IN	MX	1 aspmx.l.google.com.
+center.com.		1800	IN	MX	5 alt1.aspmx.l.google.com.
+center.com.		1800	IN	MX	5 alt2.aspmx.l.google.com.
+center.com.		1800	IN	MX	10 alt3.aspmx.l.google.com.
+center.com.		1800	IN	MX	10 alt4.aspmx.l.google.com.
+center.com.		86400	IN	NS	ns0.dnsmadeeasy.com.
+center.com.		86400	IN	NS	ns1.dnsmadeeasy.com.
+center.com.		86400	IN	NS	ns2.dnsmadeeasy.com.
+center.com.		86400	IN	NS	ns3.dnsmadeeasy.com.
+center.com.		86400	IN	NS	ns4.dnsmadeeasy.com.
+*.center.com.		1800	IN	A	104.197.142.115
+google._domainkey.center.com. 3600 IN	TXT	"v=DKIM1\; k=rsa\; p=MIGfMA0GCSqGSIb3DQEBAQUAA4GNADCBiQKBgQCJDMgGHEET12lVz2k8wn/IIczBApxin+xjAKF/6nUZCpHlpbz1yvVQlFBps93nFfRl83q9caJCSQ/ucCG3BuSxRLWeLfV7g9ipcB1i7/bbwLTyafqChEFbjf8R8iO2HU+B5saFdR0Ho9MAx351sK4sD8/327YGY76WkO9gng3MDwIDAQAB"
+center.com.		86400	IN	SOA	ns0.dnsmadeeasy.com. dns.dnsmadeeasy.com. 2008010131 43200 3600 1209600 180

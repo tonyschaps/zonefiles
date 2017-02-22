@@ -1,0 +1,22 @@
+;leadpagestest.co
+leadpagestest.co.	86400	IN	SOA	ns0.dnsmadeeasy.com. dns.dnsmadeeasy.com. 2008010125 43200 3600 1209600 180
+leadpagestest.co.	86400	IN	NS	ns0.dnsmadeeasy.com.
+leadpagestest.co.	86400	IN	NS	ns1.dnsmadeeasy.com.
+leadpagestest.co.	86400	IN	NS	ns2.dnsmadeeasy.com.
+leadpagestest.co.	86400	IN	NS	ns3.dnsmadeeasy.com.
+leadpagestest.co.	86400	IN	NS	ns4.dnsmadeeasy.com.
+leadpagestest.co.	3600	IN	A	216.239.32.21
+leadpagestest.co.	3600	IN	A	216.239.34.21
+leadpagestest.co.	3600	IN	A	216.239.36.21
+leadpagestest.co.	3600	IN	A	216.239.38.21
+leadpagestest.co.	1800	IN	TXT	"google-site-verification=OIaogxFNQG9x80YkLsixMdpiAENC9EzSug9Pk51eiPc"
+leadpagestest.co.	3600	IN	AAAA	2001:4860:4802:32::15
+leadpagestest.co.	3600	IN	AAAA	2001:4860:4802:34::15
+leadpagestest.co.	3600	IN	AAAA	2001:4860:4802:36::15
+leadpagestest.co.	3600	IN	AAAA	2001:4860:4802:38::15
+*.leadpagestest.co.	1800	IN	CNAME	ghs-svc-https-c863.ghs-ssl.googlehosted.com.
+4070431f704b460e2c5e16b8d8a2fbe6.leadpagestest.co. 1800	IN CNAME cf5c5390b7ba3b37148c23db94dd5e9cff111179.comodoca.com.
+market.leadpagestest.co. 1800	IN	CNAME	ghs.googlehosted.com.
+marketplace.leadpagestest.co. 1800 IN	CNAME	market.leadpagestest.co.
+leadpagestest.co.	86400	IN	SOA	ns0.dnsmadeeasy.com. dns.dnsmadeeasy.com. 2008010125 43200 3600 1209600 180
+

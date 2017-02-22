@@ -1,0 +1,10 @@
+;centerhq.com
+centerhq.com.		86400	IN	SOA	ns0.dnsmadeeasy.com. dns.dnsmadeeasy.com. 2008010103 43200 3600 1209600 180
+centerhq.com.		86400	IN	NS	ns0.dnsmadeeasy.com.
+centerhq.com.		86400	IN	NS	ns1.dnsmadeeasy.com.
+centerhq.com.		86400	IN	NS	ns2.dnsmadeeasy.com.
+centerhq.com.		86400	IN	NS	ns3.dnsmadeeasy.com.
+centerhq.com.		86400	IN	NS	ns4.dnsmadeeasy.com.
+centerhq.com.		1800	IN	A	130.211.128.6
+www.centerhq.com.	1800	IN	A	130.211.128.6
+centerhq.com.		86400	IN	SOA	ns0.dnsmadeeasy.com. dns.dnsmadeeasy.com. 2008010103 43200 3600 1209600 180

@@ -1,0 +1,22 @@
+;rapidology.com
+rapidology.com.		86400	IN	SOA	ns0.dnsmadeeasy.com. dns.dnsmadeeasy.com. 2008010148 43200 3600 1209600 180
+rapidology.com.		86400	IN	NS	ns0.dnsmadeeasy.com.
+rapidology.com.		86400	IN	NS	ns1.dnsmadeeasy.com.
+rapidology.com.		86400	IN	NS	ns2.dnsmadeeasy.com.
+rapidology.com.		86400	IN	NS	ns3.dnsmadeeasy.com.
+rapidology.com.		86400	IN	NS	ns4.dnsmadeeasy.com.
+rapidology.com.		1800	IN	A	104.197.135.217
+rapidology.com.		60	IN	MX	1 aspmx.l.google.com.
+rapidology.com.		60	IN	MX	5 alt1.aspmx.l.google.com.
+rapidology.com.		60	IN	MX	5 alt2.aspmx.l.google.com.
+rapidology.com.		60	IN	MX	10 aspmx2.googlemail.com.
+rapidology.com.		60	IN	MX	10 aspmx3.googlemail.com.
+rapidology.com.		1800	IN	TXT	"v=spf1 include:spf.mandrillapp.com ?all"
+rapidology.com.		1800	IN	TXT	"google-site-verification=dGg2HRr_BhL5gvUcysfAGY9CkHvhDB9Wmo7oxm14Tes"
+57c72c324a2e194ac289a8ba233f2d78.rapidology.com. 1800 IN CNAME d0c318f6e024bb2dc361f7e9259f3b5a826781a2.comodoca.com.
+mandrill._domainkey.rapidology.com. 1800 IN TXT	"v=DKIM1\; k=rsa\; p=MIGfMA0GCSqGSIb3DQEBAQUAA4GNADCBiQKBgQCrLHiExVd55zd/IQ/J/mRwSRMAocV/hMB3jXwaHH36d9NaVynQFYV8NaWi69c1veUtRzGt7yAioXqLj7Z4TeEUoOLgrKsn8YnckGs9i3B3tVFB+Ch/4mPhXWiNfNdynHWBcPcbJ8kjEQ2U8y78dHZj1YeRXXVvWob2OaKynO8/lQIDAQAB\;"
+blog.rapidology.com.	60	IN	CNAME	ghs.googlehosted.com.
+io-center-www-prod-deployment.rapidology.com. 1800 IN CNAME ghs.googlehosted.com.
+www.rapidology.com.	1800	IN	A	104.197.135.217
+rapidology.com.		86400	IN	SOA	ns0.dnsmadeeasy.com. dns.dnsmadeeasy.com. 2008010148 43200 3600 1209600 180
+

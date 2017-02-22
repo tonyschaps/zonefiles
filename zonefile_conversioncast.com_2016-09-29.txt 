@@ -1,0 +1,10 @@
+;conversioncast.com
+conversioncast.com.	86400	IN	SOA	ns0.dnsmadeeasy.com. dns.dnsmadeeasy.com. 2008010106 43200 3600 1209600 180
+conversioncast.com.	1800	IN	A	104.197.142.115
+conversioncast.com.	86400	IN	NS	ns0.dnsmadeeasy.com.
+conversioncast.com.	86400	IN	NS	ns1.dnsmadeeasy.com.
+conversioncast.com.	86400	IN	NS	ns2.dnsmadeeasy.com.
+conversioncast.com.	86400	IN	NS	ns3.dnsmadeeasy.com.
+conversioncast.com.	86400	IN	NS	ns4.dnsmadeeasy.com.
+*.conversioncast.com.	1800	IN	A	104.197.142.115
+conversioncast.com.	86400	IN	SOA	ns0.dnsmadeeasy.com. dns.dnsmadeeasy.com. 2008010106 43200 3600 1209600 180

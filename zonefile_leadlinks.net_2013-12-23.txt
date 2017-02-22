@@ -1,0 +1,10 @@
+;leadlinks.net
+leadlinks.net.		86400	IN	SOA	ns0.dnsmadeeasy.com. dns.dnsmadeeasy.com. 2008010103 43200 3600 1209600 180
+leadlinks.net.		86400	IN	NS	ns0.dnsmadeeasy.com.
+leadlinks.net.		86400	IN	NS	ns1.dnsmadeeasy.com.
+leadlinks.net.		86400	IN	NS	ns2.dnsmadeeasy.com.
+leadlinks.net.		86400	IN	NS	ns3.dnsmadeeasy.com.
+leadlinks.net.		86400	IN	NS	ns4.dnsmadeeasy.com.
+leadlinks.net.		1800	IN	TXT	"google-site-verification=klI6UWsrh76zaPyNyD38fhyI5W4Jgn94AEaG1tLyKfg"
+*.leadlinks.net.	1800	IN	CNAME	ghs.googlehosted.com.
+leadlinks.net.		86400	IN	SOA	ns0.dnsmadeeasy.com. dns.dnsmadeeasy.com. 2008010103 43200 3600 1209600 180

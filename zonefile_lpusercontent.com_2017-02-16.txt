@@ -1,0 +1,9 @@
+;lpusercontent.com
+lpusercontent.com.	86400	IN	SOA	ns0.dnsmadeeasy.com. dns.dnsmadeeasy.com. 2008010101 43200 3600 1209600 180
+lpusercontent.com.	86400	IN	NS	ns0.dnsmadeeasy.com.
+lpusercontent.com.	86400	IN	NS	ns1.dnsmadeeasy.com.
+lpusercontent.com.	86400	IN	NS	ns2.dnsmadeeasy.com.
+lpusercontent.com.	86400	IN	NS	ns3.dnsmadeeasy.com.
+lpusercontent.com.	86400	IN	NS	ns4.dnsmadeeasy.com.
+lpusercontent.com.	86400	IN	SOA	ns0.dnsmadeeasy.com. dns.dnsmadeeasy.com. 2008010101 43200 3600 1209600 180
+

@@ -1,0 +1,11 @@
+;leadpages.to
+leadpages.to.		86400	IN	SOA	ns0.dnsmadeeasy.com. dns.dnsmadeeasy.com. 2008010105 43200 3600 1209600 180
+leadpages.to.		86400	IN	NS	ns0.dnsmadeeasy.com.
+leadpages.to.		86400	IN	NS	ns1.dnsmadeeasy.com.
+leadpages.to.		86400	IN	NS	ns2.dnsmadeeasy.com.
+leadpages.to.		86400	IN	NS	ns3.dnsmadeeasy.com.
+leadpages.to.		86400	IN	NS	ns4.dnsmadeeasy.com.
+leadpages.to.		1800	IN	A	67.199.248.12
+leadpages.to.		1800	IN	A	67.199.248.13
+leadpages.to.		86400	IN	SOA	ns0.dnsmadeeasy.com. dns.dnsmadeeasy.com. 2008010105 43200 3600 1209600 180
+
